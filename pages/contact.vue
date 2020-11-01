@@ -32,9 +32,10 @@
                   </strong>
                 </p>
                 <p>
-                  Allegheny College, Meadville, PA
-                  Class of 2022
-                  Majors: Integrative Informatics, Community and Justice Studies
+                  Allegheny College, Meadville, PA <br />
+                  Class of 2022<br />
+                  Majors: <br />
+                  Integrative Informatics, Community and Justice Studies
                 </p>
               </div>
             </article>

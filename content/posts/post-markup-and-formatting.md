@@ -3,7 +3,7 @@ title: Post Markup And Formatting
 subtitle: All the Tags You Need to Make Clean and Expressive Posts
 category:
   - About Awake
-author: Daniel Kelly
+author: Sadie Brown
 date: 2019-07-04T03:02:00.000Z
 featureImage: /uploads/markup-hero.jpg
 ---

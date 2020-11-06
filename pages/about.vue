@@ -106,8 +106,8 @@ informatics<template>
               </p>
               <p class="subtitle">
                 <a href="https://alleghenygators.com/sports/womens-swimming-and-diving" target="_blank">check out the incredible Women's swim and diving team </a></li>
+                image="/uploads/circus.jpg"
               </p>
-              image="/uploads/circus.jpg"
               </figure>
             </article>
           </div>

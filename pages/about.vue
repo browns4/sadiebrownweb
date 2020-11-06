@@ -56,7 +56,7 @@ informatics<template>
           <p>
             Now... Right now I am in my third year of college. I am at Allegheny College in
             my junior year. I am studying Integrative Informatics with a focus in Environmental
-            Science and Sustainability and Community and Justice studies. 
+            Science and Sustainability and Community and Justice studies.
           </p>
           <quote-card />
           <h3>Still More Fake Content</h3>
@@ -76,10 +76,10 @@ informatics<template>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                CIRCUS FUN
               </p>
               <p class="subtitle">
-                Sooo Cool
+                <a href="https://www.thecircusproject.org/" target="_blank">check out where I do circus at The Circus Project</a></li>
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -89,10 +89,10 @@ informatics<template>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+              BIKE STUFF
               </p>
               <p class="subtitle">
-                Just as cool
+              <a href="https://www.instagram.com/evanridesbike/" target="_blank">check out a blog about our tour</a></li>
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -102,10 +102,10 @@ informatics<template>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Swimming and Diving
               </p>
               <p class="subtitle">
-                that is all
+                <a href="https://alleghenygators.com/sports/womens-swimming-and-diving" target="_blank">check out the incredible Women's swim and diving team </a></li>
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />

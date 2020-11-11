@@ -31,13 +31,13 @@ export default {
       link: '/categories'
     },
     {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      name: 'linkedIn',
+      link: 'https://www.linkedin.com/in/sadie-brown-ab09151b8/',
       target: '_blank'
     },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'do not click here',
+      link: 'https://peopledotcom.files.wordpress.com/2018/05/dog-ducks-6.jpg',
       target: '_blank'
     }
   ],

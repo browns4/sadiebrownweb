@@ -2,19 +2,18 @@
   <div class="card quote-card">
     <div class="card-content">
       <p class="title">
-        “Always code as if the guy who ends up maintaining your code will be a
-        violent psychopath who knows where you live.”
+        Check out some of the things I am involved with
       </p>
       <p class="subtitle">
-        ~ Martin Golding
+        :-)
       </p>
     </div>
     <footer class="card-footer">
       <div class="card-footer-item">
-        <span> Share on <a href="#">Twitter</a> </span>
+        <span> Swimming and diving  <a href="https://alleghenygators.com/sports/womens-swimming-and-diving/roster/sadie-brown/7416" target="_blank">my roster page</a> </span>
       </div>
       <div class="card-footer-item">
-        <span> Share on <a href="#">Facebook</a> </span>
+        <span> my zine project <a href="https://sites.google.com/view/mini-zine-project/home" target="_blank">click here :-)</a> </span>
       </div>
     </footer>
   </div>
